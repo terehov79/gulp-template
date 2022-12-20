@@ -1,0 +1,13 @@
+.btn_global {
+  @include size(285px, 67px);
+  background: #FFC59E;
+  box-shadow: 0px 4px 20px #FFC59E;
+  border-radius: 33.5px;
+  font-family: 'Futura New';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #FFFFFF;
+  border: none;
+}
